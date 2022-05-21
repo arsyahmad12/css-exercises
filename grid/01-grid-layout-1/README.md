@@ -4,7 +4,7 @@ Now it's time to practice the Grid tools we've learned and create a layout that 
 
 ### Hints
 
-- You only need to add to the CSS selectors
+- You only need to add to the209 CSS selectors
 - Look back to the Creating a Grid lesson if you forget how to turn an element into a grid
 - Use fixed track sizes (e.g. pixels) for your columns and rows
 
